@@ -20,3 +20,9 @@ https://en.wikipedia.org/wiki/Convolutional_neural_network
 
 #### Front and back ends
 https://en.wikipedia.org/wiki/Front_and_back_ends
+
+#### Presentation layer
+https://en.wikipedia.org/wiki/Presentation_layer
+
+#### Data access layer
+https://en.wikipedia.org/wiki/Data_access_layer
