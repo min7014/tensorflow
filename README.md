@@ -1,3 +1,5 @@
+계산 = 튜링기계 = 람다 계산법
+
 #### ML models
 Machine learning (ML) models
 https://en.wikipedia.org/wiki/Machine_learning
