@@ -1,5 +1,3 @@
-#### ML models
-Machine learning (ML) models
 https://cthub.postech.ac.kr/hub/login
 
 계산 = 튜링기계 = 람다 계산법
