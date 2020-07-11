@@ -3,6 +3,9 @@ https://cthub.postech.ac.kr/hub/login
 계산 = 튜링기계 = 람다 계산법
 
 
+#### Markov assumption
+The Markov condition, sometimes called the Markov assumption, is an assumption made in Bayesian probability theory, that every node in a Bayesian network is conditionally independent of its nondescendents, given its parents. Stated loosely, it is assumed that a node has no bearing on nodes which do not descend from it. This is equivalent to stating that a node is conditionally independent of the entire network, given its Markov blanket.
+https://en.wikipedia.org/wiki/Causal_Markov_condition
 
 #### Markov decision process (MDP)
 In mathematics, a Markov decision process (MDP) is a discrete-time stochastic control process. It provides a mathematical framework for modeling decision making in situations where outcomes are partly random and partly under the control of a decision maker. MDPs are useful for studying optimization problems solved via dynamic programming and reinforcement learning.
