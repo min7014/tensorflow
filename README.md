@@ -2,6 +2,10 @@ https://cthub.postech.ac.kr/hub/login
 
 계산 = 튜링기계 = 람다 계산법
 
+#### Reinforcement learing
+Reinforcement learning (RL) is an area of machine learning concerned with how software agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
+https://en.wikipedia.org/wiki/Reinforcement_learning
+
 #### ML models
 Machine learning (ML) models
 https://en.wikipedia.org/wiki/Machine_learning
