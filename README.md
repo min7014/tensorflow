@@ -2,6 +2,10 @@ https://cthub.postech.ac.kr/hub/login
 
 계산 = 튜링기계 = 람다 계산법
 
+#### Q-learning
+Q-learning is a model-free reinforcement learning algorithm to learn a policy telling an agent what action to take under what circumstances. It does not require a model (hence the connotation "model-free") of the environment, and it can handle problems with stochastic transitions and rewards, without requiring adaptations.
+https://en.wikipedia.org/wiki/Q-learning
+
 #### Markov process
 A Markov chain is a stochastic model describing a sequence of possible events in which the probability of each event depends only on the state attained in the previous event. In continuous-time, it is known as a Markov process.
 https://en.wikipedia.org/wiki/Markov_chain
